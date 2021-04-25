@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejhaskar-ashokkumar
 - 👀I love automating stuffs using Python
-- 👀 I’m interested in Computer Vision and AI
+- 👀 I’m interested in Computer Vision and AI\ML
 - 🌱 I’m currently learning web development
 - 📫 How to reach me tejhaskar97@gmail.com
 
